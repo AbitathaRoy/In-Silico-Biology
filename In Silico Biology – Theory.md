@@ -2,6 +2,8 @@
 
 **Motto:** "Turning Biological Data into Knowledge, One Algorithm at a Time."
 
+*The material here is based on the syllabus of the course **In Silico Biology** offered at Cluster Innovation Centre, University of Delhi for students pursuing B.Tech. Information Technology and Mathematical Innovations.*
+
 ## Introduction: What is In Silico Biology?
 
 In Silico Biology (often used interchangeably with Bioinformatics and Computational Biology, though nuances exist) refers to the use of computational and statistical techniques to analyze biological data. It involves:
