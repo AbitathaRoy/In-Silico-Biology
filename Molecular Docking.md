@@ -10,6 +10,7 @@
 
 ---
 
+```
 ## Table of Contents (To be populated as we go)
 
 1.  Introduction to Molecular Docking
@@ -128,6 +129,7 @@
         9.3.2. C2: Conceptual Workflow for a Basic Docking Run (Backlink: Main Text Section X.X)
 10. Glossary of Terms
 11. References
+```
 
 ---
 
